@@ -74,13 +74,8 @@ export const Navbar = () => {
           {/* RIGHT SECTION: Utilities & Buttons */}
           <div className={`hidden lg:flex items-center gap-6 text-sm font-medium ${isScrolled ? "text-slate-600" : "text-slate-300"}`}>
             
-            <button className={`flex items-center gap-2 px-3 py-1.5 rounded border transition-colors ${isScrolled ? 'border-slate-300 hover:border-blue-900' : 'border-slate-500 hover:border-white'}`}>
-              <Search className="w-4 h-4" /> Ask AeroGlobal
-            </button>
-
             <div className="flex items-center gap-5">
               <button className="flex items-center gap-1.5 hover:text-emerald-500 transition-colors"><Globe className="w-4 h-4" /> EN</button>
-              <button className="flex items-center gap-1.5 hover:text-emerald-500 transition-colors"><HelpCircle className="w-4 h-4" /> Support</button>
               <a href="/contact" className={`px-5 py-2 ml-2 text-sm font-bold rounded transition-colors ${isScrolled ? 'bg-emerald-500 text-white hover:bg-emerald-600' : 'bg-emerald-500 text-white hover:bg-emerald-600'}`}>
                 Contact & Quote
               </a>
