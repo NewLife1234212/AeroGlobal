@@ -23,7 +23,7 @@ export const JobDescriptions = () => {
       department: 'Operations',
       desc: 'Learn how to track and coordinate international sea/air shipments. No prior logistics experience required. Fresh graduates are highly encouraged to apply. We will provide full training.',
       reqs: ['0-1 years experience (Fresh Grads Welcome)', 'Eagerness to learn and adapt', 'Strong English communication'],
-      pdfLink: 'https://raw.githubusercontent.com/NewLife1234212/123123/25130f84a275f2a7e549a760a368fafad6fbe711/Job%20Description%20AeroGlobal%202026.zip' 
+      pdfLink: 'https://drive.google.com/u/0/uc?id=19iMy-x8pcYqLiSPS8kfdSrDqUTXpynAp&export=download' 
     },
     {
       id: 'data-analyst-trainee',
@@ -35,7 +35,7 @@ export const JobDescriptions = () => {
       department: 'Data & Analytics',
       desc: 'Assist our senior team in analyzing global freight data. Basic Excel skills are enough to start; we will train you on advanced global supply chain systems and analytics tools.',
       reqs: ['Basic understanding of Excel / Data', 'Detail-oriented mindset', 'Recent graduates preferred'],
-      pdfLink: 'https://raw.githubusercontent.com/NewLife1234212/123123/25130f84a275f2a7e549a760a368fafad6fbe711/Job%20Description%20AeroGlobal%202026.zip'
+      pdfLink: 'https://drive.google.com/u/0/uc?id=19iMy-x8pcYqLiSPS8kfdSrDqUTXpynAp&export=download'
     },
     {
       id: 'trainee-freight-broker',
@@ -47,7 +47,7 @@ export const JobDescriptions = () => {
       department: 'Sales & Brokerage',
       desc: 'Step into the lucrative world of B2B logistics sales. We will teach you how to negotiate and close deals. Perfect for energetic individuals who want to learn how to sell globally.',
       reqs: ['High energy and resilience', 'No prior sales experience needed', 'Strong desire to earn commission'],
-      pdfLink: 'https://raw.githubusercontent.com/NewLife1234212/123123/25130f84a275f2a7e549a760a368fafad6fbe711/Job%20Description%20AeroGlobal%202026.zip'
+      pdfLink: 'https://drive.google.com/u/0/uc?id=19iMy-x8pcYqLiSPS8kfdSrDqUTXpynAp&export=download'
     },
     {
       id: 'junior-software-developer',
@@ -59,7 +59,7 @@ export const JobDescriptions = () => {
       department: 'Engineering',
       desc: 'Join our tech department to build logistics APIs. Recent Computer Science graduates, bootcamp grads, or self-taught coders with a strong portfolio are very welcome to apply.',
       reqs: ['Familiarity with JS/React/Node', 'A personal project portfolio', 'Passion for solving problems'],
-      pdfLink: 'https://raw.githubusercontent.com/NewLife1234212/123123/25130f84a275f2a7e549a760a368fafad6fbe711/Job%20Description%20AeroGlobal%202026.zip'
+      pdfLink: 'https://drive.google.com/u/0/uc?id=19iMy-x8pcYqLiSPS8kfdSrDqUTXpynAp&export=download'
     },
     {
       id: 'junior-telesales',
@@ -71,7 +71,7 @@ export const JobDescriptions = () => {
       department: 'Sales',
       desc: 'Learn the ropes of global outreach. You will make introductory calls to potential clients around the world. We provide full scripts and comprehensive training on our products.',
       reqs: ['Confident speaking voice', 'Willingness to learn cold calling', 'Basic computer skills'],
-      pdfLink: 'https://raw.githubusercontent.com/NewLife1234212/123123/25130f84a275f2a7e549a760a368fafad6fbe711/Job%20Description%20AeroGlobal%202026.zip'
+      pdfLink: 'https://drive.google.com/u/0/uc?id=19iMy-x8pcYqLiSPS8kfdSrDqUTXpynAp&export=download'
     },
     {
       id: 'customer-success-trainee',
@@ -83,7 +83,7 @@ export const JobDescriptions = () => {
       department: 'Support',
       desc: 'Start your career by helping our global clients navigate our logistics platform. Perfect for empathetic, organized individuals looking for their first remote corporate job.',
       reqs: ['Empathy and patience', 'Excellent written English', 'No prior corporate experience needed'],
-      pdfLink: 'https://raw.githubusercontent.com/NewLife1234212/123123/25130f84a275f2a7e549a760a368fafad6fbe711/Job%20Description%20AeroGlobal%202026.zip'
+      pdfLink: 'https://drive.google.com/u/0/uc?id=19iMy-x8pcYqLiSPS8kfdSrDqUTXpynAp&export=download'
     }
   ];
 
